@@ -1,0 +1,55 @@
+
+TITULO:
+
+	Buscar evento mais próximo.
+
+ATOR:
+
+	André Santos (turista mineiro)
+
+DESCRIÇÃO:
+
+	André Santos, turista mineiro, que goza de boa situação financeira amante da tecnologia, utiliza
+cotidianamente o smartphone para encontrar produtos ou serviços que precisa. Durante a Olimpíada hospedou-se
+em um apartamento na zona sul do Rio de Janeiro. Ao acessar o aplicativo deseja buscar pela próxima partida
+de futebol mais próxima do seu apartamento distante no máximo de 20km. Após escolher o jogo, deseja visualizar
+horário, preço e condições de segurança em torno do evento. Após a pesquisa deseja consultar a rota até ao
+destino e selecionar o meio de transporte de sua preferência como táxi ou uber. Finalmente, depois de selecionar
+este serviço deseja visualizar o preço da corrida.
+
+
+#################################################################################################################
+
+
+TITULO:
+
+	Buscar pontos turísticos na cidade.
+
+ATOR:
+
+	João Fernandes (turista paulista)
+
+DESCRIÇÃO:
+
+	João Fernandes, turista paulista, de classe média alta, veio ao Rio de Janeiro para acompanhar as Olimpíadas Rio 2016.
+Hospedou-se em um hotel na Barra da Tijuca para ficar mais perto dos eventos esportivos, 
+porém o local onde está hospedado fica longe dos melhores pontos turísticos da Cidade Maravilhosa. 
+Querendo conhecer melhor a cidade, João utiliza o smartphone para pesquisar locais de visitação de seu interesse. 
+Por meio de um aplicativo ele visualiza no mapa a lista de pontos turísticos em torno de sua posição atual, 
+para isso, ele utilizou filtros ou informou dados como nome ou endereço do local desejado. 
+Após traçar a rota, dirigiu-se de táxi para o lugar marcado chegando no tempo estimado pelo aplicativo. 
+
+
+##################################################################################################################
+
+
+TITULO:
+
+	Buscar hospitais na cidade.
+
+ATOR:
+
+	Paul Phillips (turista americano)
+
+DESCRIÇÃO:
+	

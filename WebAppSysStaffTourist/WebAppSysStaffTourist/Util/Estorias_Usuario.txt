@@ -1,0 +1,17 @@
+
+TITULO: Como um turista mineiro eu gostaria de consultar no meu smartphone a próxima partida  de futebol, perto de minha localização para ver as opções disponíveis.
+
+DESCRIÇÃO: O usuário, ao abrir o aplicativo, visualizará no mapa sua posição atual. Ao clicar no menu poderá escolher entre buscar uma partida digitando um nome ou 
+local ou horário ou ainda escolher visiualizar no mapa as partidas que acontecerão ou que estão em andamento no dia.
+
+CRITÉRIOS DE ACEITE:
+
+############################################################################
+
+
+TITULO: Como um turista mineiro eu gostaria obter informações detalhadas sobre o evento selecionado para escolher qual partida assistir.
+
+DESCRIÇÃO: O usuário, após selecionar uma partida, terá por meio de uma nova aba acesso as informações do evento em forma de icones com legendas relativas a preço, 
+horário, segurança e meios de transportes públicos e táxi e Uber. Caso decida pelo evento o usuário terá opção de ser redirecionado para o site de compras de ingressos. 
+
+CRITÉRIOS DE ACEITE: 
