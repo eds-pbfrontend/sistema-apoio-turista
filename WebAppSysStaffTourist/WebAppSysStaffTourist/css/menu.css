@@ -274,6 +274,7 @@ ul.sub-menu > li > a.parent {
 
 div.gallery {
 	border: 1px solid #ccc;
+	margin-bottom: 10px;
 }
 
 div.gallery:hover {
